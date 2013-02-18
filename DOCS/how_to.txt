@@ -1,0 +1,3 @@
+HOW TO DUMP DATABASE sin estructuras
+
+mysqldump -d -h localhost -u root -pmypassword databasename > dumpfile.sql
